@@ -1,0 +1,18 @@
+0001, Natural Water, 1.5, 7
+0003, Coca Cola, 3, 7
+C243, Salmon Agnolotti, 14, 22
+0005, Fanta Orange, 3, 7
+A43D, Medium Beer, 5, 15
+C240, Antipasto, 9, 22
+A43B, Red Wine, 6, 15
+A43C, Small Beer, 3, 15.
+D100, Fillet, 12, 22
+0004, Fanta Lemon, 3, 7
+C242, White Pasta, 10.5, 22
+D101, Sea Bream, 16, 22
+D102, Sea Bass, 18, 22
+C241, Pasta with Sauce, 5, 22
+0006, Tonic Water, 3, 7
+A43A, White Wine, 6, 15
+0002, Mineral Water, 1.5, 7
+D103, Roast with Mushrooms, 17, 22
